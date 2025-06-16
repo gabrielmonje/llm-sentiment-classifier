@@ -1,4 +1,4 @@
-# Sentiment Classifier with LLM Embeddings (OpenAI API Updated)
+# Sentiment Classifier with LLM Embeddings
 
 This project demonstrates how to use LLM embeddings to build a simple sentiment analysis model.
 It leverages the power of large language models for feature extraction and classic machine learning algorithms for classification.
