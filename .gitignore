@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+.venv/
+env/
+venv/
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Modelos e dados opcionais
+model/
+data/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store

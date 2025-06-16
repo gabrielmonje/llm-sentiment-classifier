@@ -1,0 +1,11 @@
+openai>=1.0.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+fastapi
+uvicorn
+streamlit
+joblib
